@@ -5,10 +5,15 @@ There are many basic algorithms of computer vision which are either implemented 
 1. The folder can be saved to any directory.
 2. There are six partx_xx folders.
 3. Steps to Run the each part -
-	a. First matlab working path should be the set to the part directory. For me to run the part1 code I need to set the working directory as -
+	a. Go to each part and extract vlfeat-0.9.21.rar folder. This folder contains the code for SIFT which has been downloaded from -
+	   https://www.vlfeat.org/overview/sift.html and is highly cited work.
+	
+	b. First matlab working path should be the set to the part directory. For me to run the part1 code I need to set the working directory as -
+	
 	   E:\<Assignment_directory>\Assignment_1_Sayan_Kumar\Part1
 	   Similarly to run the code for part2 change the MATLAB working directory to  
 	   E:\<Assignment_directory>\Assignment_1_Sayan_Kumar\Part2
+	   
 	b. To run each part the following command to run -
 
 		part1: 
