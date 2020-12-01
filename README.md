@@ -45,6 +45,20 @@ There are many basic algorithms of computer vision which are either implemented 
 
 		Part6:
 		>>[image]=get_basic_panorama("im01.jpg","im02.jpg","im03.jpg");
+
+		NOTE: For Part7 to Part10. Download the GCMEX and Road Dataset And add the path of the GCMEX and ROAD Appropriately as shown in the sample code in part1.m in Part7 folder
+		part7: 
+		>> part1
+
+		part8:
+		>> part2
+
+		Part9:
+		>> part3
+
+		Part10:
+		>> part4
+
     
     ## Other Folder : 
     ORB_MATCHING: ORB Python-OPENCV Program has been implemented to match two images.
