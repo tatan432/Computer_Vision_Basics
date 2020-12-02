@@ -1,5 +1,6 @@
 # Folder Description
 There are many basic algorithms of computer vision which are either implemented in MATLAB or Python-OpenCV. They can be downloaded or consulted for understanding.
+Few of the algorithms developed was a part of EE5731 visual computing course (National University of Singapore) requirement fullfillment.
 
 ## MATLAB Folders:Denoted By PARTX
 1. The folder can be saved to any directory.
@@ -66,4 +67,4 @@ There are many basic algorithms of computer vision which are either implemented 
     ## DATASET: 
     Dataset can be downloaded from : https://www.dropbox.com/s/rctkhpw6jh1p22o/Road.zip?dl=0
     
-	   .
+	  
